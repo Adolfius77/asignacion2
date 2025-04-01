@@ -12,9 +12,9 @@ import java.util.NoSuchElementException;
  */
 public class ListaDoblementeEnlazada<E> {
 
-    private Nodo<E> inicial; // Referencia al primer nodo (cabeza)
-    private Nodo<E> ultimo;  // Referencia al último nodo (cola)
-    private int contador;    // Número de elementos en la lista
+    private Nodo<E> inicial; 
+    private Nodo<E> ultimo;  
+    private int contador;    
 
     /**
      * Construye una lista doblemente enlazada vacía.

@@ -8,9 +8,9 @@ package Nodo;
  */
 public class Nodo<E> {
 
-    private E dato;             // El dato almacenado.
-    private Nodo<E> anterior;   // Referencia al nodo previo.
-    private Nodo<E> siguiente;  // Referencia al nodo siguiente.
+    private E dato;            
+    private Nodo<E> anterior;   
+    private Nodo<E> siguiente;  
 
     /**
      * Constructor para crear un nodo con un dato específico.

@@ -11,7 +11,7 @@ import java.util.NoSuchElementException;
  *
  * @author USER
  */
-public class main {
+public class Pruebas {
 
     // --- Ejemplo de uso (Método main) ---
     public static void main(String[] args) {
